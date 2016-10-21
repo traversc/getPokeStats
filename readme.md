@@ -1,3 +1,5 @@
+Edit 10/20/16: Due to Niantic changes to the API, this script is is now defunct and will not work.  
+
 # Description
 Extremely lightweight script to fetch the exact IVs for your Pokemon.  Least amount of pre-requisites possible.  
 
