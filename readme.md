@@ -1,3 +1,5 @@
+This script is no longer maintained.  
+
 # Description
 Extremely lightweight script to fetch the exact IVs for your Pokemon.  Least amount of pre-requisites possible.  
 
